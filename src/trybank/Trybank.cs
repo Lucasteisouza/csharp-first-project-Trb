@@ -5,7 +5,7 @@ public class Trybank
     public bool Logged;
     public int loggedUser;
     
-    //0 -> Número da conta
+    //0 -> Número da cont
     //1 -> Agência
     //2 -> Senha
     //3 -> Saldo
